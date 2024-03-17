@@ -1,0 +1,34 @@
+{
+  "name": "nyusu-enak",
+  "version": "1.0.1",
+  "description": "vv",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oploverz21/nyusu-enak.git"
+  },
+  "keywords": [
+    "vv"
+  ],
+  "author": "vv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oploverz21/nyusu-enak/issues"
+  },
+  "homepage": "https://github.com/oploverz21/nyusu-enak#readme",
+  "dependencies": {
+    "nyusu-enak": "^1.0.0",
+    "string-width": "^5.1.2",
+    "string-width-cjs": "npm:string-width@^4.2.0",
+    "strip-ansi": "^7.0.1",
+    "strip-ansi-cjs": "npm:strip-ansi@^6.0.1",
+    "wrap-ansi": "^8.1.0",
+    "wrap-ansi-cjs": "npm:wrap-ansi@^7.0.0"
+  },
+  "devDependencies": {
+    "next": "^1.0.0"
+  }
+}
